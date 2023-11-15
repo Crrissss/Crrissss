@@ -7,13 +7,12 @@
 
 <p align="left">
   🦄 Linguagens: Html, css, js
-  
-</p>
+  </p>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-crislh2017@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crislh2017@gmal.com)](mailto:crislh2017@gmail.com)
 
-
+ <a href="https://wa.me/5551995328791?text=Se desejar, faça contato via WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 
 <!---
