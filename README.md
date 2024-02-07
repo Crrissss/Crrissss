@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Html, css, js
+  🦄 Aprendendo as aplicações: Html, css, js
   </p>
 
 
